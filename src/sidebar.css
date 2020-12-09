@@ -1,0 +1,11 @@
+.sideBar{
+    display: flex;
+    flex-direction: column;
+    flex: 0.35;
+}
+.sidebar__header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 1px solid lightgrey;
+}
