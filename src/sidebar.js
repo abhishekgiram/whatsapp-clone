@@ -9,7 +9,6 @@ import SideBarChat from "./sidebarchat"
 function sidebar() {
     return (
         <div className="sideBar">
-            <h3>this is sidebar</h3>
             <div className="sidebar__header">
                 <Avatar src="https://he-s3.s3.amazonaws.com
                 /media/avatars
